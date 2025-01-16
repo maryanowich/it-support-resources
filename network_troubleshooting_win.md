@@ -82,7 +82,7 @@ Step 1: Check Network Bandwidth Usage
 •	If the device is running background processes or updates, close or pause them.
 Step 2: Check for Network Congestion
 •	If on a Wi-Fi network, check for signal interference by using a Wi-Fi analyzer tool (e.g., inSSIDer or Wi-Fi Analyzer).
-•	Change the Wi-Fi channel on your router to avoid overlapping channels from nearby networks. Try Channels 3, 6 and 11. 
+•	Change the Wi-Fi channel on your router to avoid overlapping channels from nearby networks. Try Channels 1, 6 and 11. 
 Step 3: Check Router and Modem
 •	Restart the router and modem. Sometimes a simple reboot resolves performance issues.
 •	Ensure the firmware on the router is up to date. Consult the router's manual or manufacturer's website for instructions.
